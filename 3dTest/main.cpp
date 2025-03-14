@@ -497,7 +497,7 @@ int main(int argc, char* args[])
             Screen screen(screenSurface, window);
             screen.clear();
             CPU myCPU(&screen);
-            myCPU.loadProgram("C:/Users/kings/OneDrive/Desktop/chipRoms/tank.ch8");
+            myCPU.loadProgram("./chipRoms/tank.ch8");
             for (int i = 0; i < 4096; i++) {
                 //cout << hex << (short)myCPU.memory[i] << " ";
             }
