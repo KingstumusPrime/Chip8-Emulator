@@ -1,6 +1,6 @@
 # Chip 8 Emulator
 
-A basic Chip8 emulator written in C++. It was primarily created as a practice project for the [NES emulator](). In addition to that, this project also taught me how to use SDL2 for low-level graphics in C++.
+A basic Chip8 emulator written in C++. It was primarily created as a practice project for the [NES emulator](https://github.com/KingstumusPrime/Nes-Emulator). In addition to that, this project also taught me how to use SDL2 for low-level graphics in C++.
 
 ## Controls 
 
